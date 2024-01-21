@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL.**
 
-- 📫 How to reach me **asif35-2872@diu.edu.bd**
+- 📫 How to reach me **asif35-2872@diu.edu.bd** / **asifmunshe2978@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
